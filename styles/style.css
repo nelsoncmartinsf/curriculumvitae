@@ -124,8 +124,8 @@ li{
     font-size: 0.9em;
 }
 
-.small {
-    font-size: small;
+.text-small {
+    font-size: small !important;
 }
 
 .card--techstack{
