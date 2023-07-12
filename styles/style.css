@@ -124,6 +124,10 @@ li{
     font-size: 0.9em;
 }
 
+.smaller {
+    font-size: smaller;
+}
+
 .card--techstack{
     border: 1px solid var(--mainBorderColor);
     border-radius: 5px;
