@@ -128,6 +128,14 @@ li{
     font-size: small !important;
 }
 
+.pill--techstack {
+    margin: auto 0.4em;
+    border: 1px solid var(--mainBorderColor);
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    align-items: center;
+}
+
 .card--techstack{
     border: 1px solid var(--mainBorderColor);
     border-radius: 5px;
